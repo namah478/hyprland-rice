@@ -1,6 +1,6 @@
 # Hyprland Rice by Raphael & Drake123
 
-![Hyprland](https://upload.wikimedia.org/wikipedia/commons/4/4b/Hyprland_logo.png)
+![Hyprland]((https://commons.wikimedia.org/wiki/File:Hyprland_logo.png#/media/File:Hyprland_logo.png))
 
 Welcome to **Hyprland-Rice**, a custom, minimal, and aesthetic Hyprland configuration created by **Raphael (Yash Namdev)** and **Drake123 (Aditya Verma)**. This project is our take on making Hyprland more functional, visually appealing, and efficient for daily use.
 
